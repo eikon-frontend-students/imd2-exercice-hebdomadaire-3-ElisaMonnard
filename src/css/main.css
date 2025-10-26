@@ -49,3 +49,13 @@ video {
   border-radius: 35px;
   background: #684bd4;
 }
+
+.third {
+  display: inline-flex;
+  padding: 25px 30px;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 10px;
+  background: #00b47e;
+  box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.25);
+}
