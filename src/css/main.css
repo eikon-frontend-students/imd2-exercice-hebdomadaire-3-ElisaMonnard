@@ -11,3 +11,29 @@ body {
   margin: 40px;
   gap: 20px;
 }
+
+p {
+  color: #fff;
+  font-family: Lato;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+img,
+video {
+  display: block;
+}
+
+.first {
+  display: flex;
+  width: 300px;
+  height: 80px;
+  transform: rotate(-4deg);
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #f124f2;
+  box-shadow: 0 7px 0 0 #a819a8;
+}
