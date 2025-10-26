@@ -1,14 +1,13 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  padding: 0;
+  padding: 0px;
 }
 
 a {
   color: inherit;
 }
-
-img,
-video {
-  display: block;
+body {
+  margin: 40px;
+  gap: 20px;
 }
