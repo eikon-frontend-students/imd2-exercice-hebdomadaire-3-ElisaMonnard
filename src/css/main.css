@@ -37,3 +37,15 @@ video {
   background: #f124f2;
   box-shadow: 0 7px 0 0 #a819a8;
 }
+
+.second {
+  display: flex;
+  width: 320px;
+  height: 70px;
+  transform: rotate(6deg);
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 35px;
+  background: #684bd4;
+}
